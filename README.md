@@ -103,19 +103,4 @@ elemental-creatures-battle/
 └── run_game.bat          # Windows script to run the game
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork the project, create a new branch, and submit a pull request. Some areas for improvement could be:
-
--   Adding new creatures, types, and attacks.
--   Implementing status effects (e.g., poison, sleep).
--   Creating an experience and leveling system.
--   Enhancing the AI with more complex strategies.
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
-**Made with ❤️ using Python and Pygame.**
